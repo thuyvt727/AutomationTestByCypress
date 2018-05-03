@@ -1,3 +1,0 @@
-# AutomationTestByCypress  
-DE
-
